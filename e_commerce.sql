@@ -7,7 +7,7 @@
 
 -- 1. Tabelas
     
-    -- 1.1 Modelagem
+    -- 1.1 Modelagem -- Aula 01
     -- 1.2 Criação de tabelas
     -- 1.3 Tipos de dados
     -- 1.4 Constraints
