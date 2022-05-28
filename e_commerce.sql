@@ -8,10 +8,10 @@
 -- 1. Tabelas
     
     -- 1.1 Modelagem -- Aula 01
-    -- 1.2 Criação de tabelas
-    -- 1.3 Tipos de dados
-    -- 1.4 Constraints
-    -- 1.5 Relações
+    -- 1.2 Criação de tabelas -- Aula 02
+    -- 1.3 Tipos de dados -- Aula 02
+    -- 1.4 Constraints -- Aula 02
+    -- 1.5 Relações -- Aula 02
 
 -- 2. CRUD 
 
