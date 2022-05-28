@@ -1,6 +1,7 @@
 /****************** PROJETO MINI E-COMMERCE ******************/
 
--- Canal Sayajin SQL
+-- Canal Sayajin SQL    >> https://www.youtube.com/channel/UC6aR2nPTkD6GECmEjQBEWtQ
+-- Github               >> https://github.com/Sayajin-SQL
 
 --------- SUMÁRIO --------------------
 
